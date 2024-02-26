@@ -52,4 +52,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pndysvm7&" alt="pndysvm7" /></p>
 
+<h3 align="left"> Quick Links: </h3>
+1. https://quickref.me/
 
