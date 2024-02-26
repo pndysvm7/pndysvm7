@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
-<h3 align="center">Software Engineer-Javascript-Learner 🤖</h3>
+<h3 align="center">Software Engineer-Javascript 🤖</h3>
 
 <h6> I'm a software engineer and programmer with strong problem-solving skills. I enjoy building websites using Javascript and Node.js in a test-driven environment. Currently, I'm diving into Natural Language Processing to broaden my skill set. </h6>
 
