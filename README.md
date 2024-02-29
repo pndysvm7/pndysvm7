@@ -53,6 +53,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pndysvm7&" alt="pndysvm7" /></p>
 
 <h3 align="left"> Quick Links: </h3>
-- 1. All Tech References: https://quickref.me/
-- 2. Tech books for professionals: https://books.goalkicker.com/
+- All Tech References: https://quickref.me/
+- Tech books for professionals: https://books.goalkicker.com/
+
 
