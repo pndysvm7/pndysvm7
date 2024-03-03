@@ -72,7 +72,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pndysvm7/pndysvm7/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/pndysvm7/pndysvm7/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
