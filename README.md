@@ -12,6 +12,15 @@
 - 📫 How to reach me: **shivamp2506@gmail.com**, **pandyaksbm@gmail.com**
 - ⚡ Fun fact: Talkative
 
+<h3 align="left"> Quick Links: </h3>
+
+- All Tech References: **https://quickref.me/**
+- Tech books for professionals: **https://books.goalkicker.com/**
+- Blogs with Illustrations: **https://blog.amigoscode.com/**
+- Getting started with mongoose and mongo: **https://www.mongodb.com/developer/languages/javascript/getting-started-with-mongodb-and-mongoose/**
+
+
+
 
 ------------
 
@@ -83,12 +92,5 @@
 
 
 
-
-<h3 align="left"> Quick Links: </h3>
-
-- All Tech References: **https://quickref.me/**
-- Tech books for professionals: **https://books.goalkicker.com/**
-- Blogs with Illustrations: **https://blog.amigoscode.com/**
-- Getting started with mongoose and mongo: **https://www.mongodb.com/developer/languages/javascript/getting-started-with-mongodb-and-mongoose/**
 
 
