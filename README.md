@@ -89,5 +89,6 @@
 - All Tech References: **https://quickref.me/**
 - Tech books for professionals: **https://books.goalkicker.com/**
 - Blogs with Illustrations: **https://blog.amigoscode.com/**
+- Getting started with mongoose and mongo: **https://www.mongodb.com/developer/languages/javascript/getting-started-with-mongodb-and-mongoose/**
 
 
