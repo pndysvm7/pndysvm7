@@ -5,10 +5,12 @@
 <h4> <b> I'm a software engineer and programmer with strong problem-solving skills. I enjoy building websites using Javascript and Node.js in a test-driven environment. Currently, I'm diving into Natural Language Processing to broaden my skill set. </b> </h4>
 
 
-- 🔭 I am currently employed as a software engineer at <a href='https://www.celigo.com/'> **Celigo** </a>
+- 🔭 I am currently employed as a Senior Software Engineer at <a href='https://www.celigo.com/'> **Celigo** </a>
+- I have hands-on expertise in designing scalable microservices and distributed systems using Java, Spring Boot, Node.js, and JavaScript, C++, Python.
+- I possess a strong foundation in Data Structures, Algorithms, and System Design.
 - 🌱 I’m currently learning **NLP** and **System Design**
-- 👯 I’m looking to collaborate on Python Projects
-- 💬 Ask me about **Data Structures, Algorithms, Javascript, NLP, Microservices, AWS**
+- 👯 I’m looking to collaborate on Java, NodeJS and Python Projects
+- 💬 Ask me about **Data Structures, Algorithms, Kafka, Redis, Javascript, JAVA, NLP, Microservices, AWS**
 - 📫 How to reach me: **shivamp2506@gmail.com**, **pandyaksbm@gmail.com**
 - ⚡ Fun fact: Talkative
 
